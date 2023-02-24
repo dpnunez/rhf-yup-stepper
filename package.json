@@ -1,0 +1,32 @@
+{
+  "name": "react-hook-form-stepper-validation",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@hookform/resolvers": "^2.9.11",
+    "@mui/material": "^5.11.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.1",
+    "yup": "^1.0.0",
+    "zod": "^3.20.6"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint": "^8.34.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0"
+  }
+}
